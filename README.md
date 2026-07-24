@@ -1,6 +1,6 @@
 # Sistema de Biblioteca
 
-Sistema desenvolvido em Python com o objetivo de simular o gerenciamento de uma biblioteca, permitindo o controle de livros, usuários e empréstimos.
+Sistema desenvolvido em Java com o objetivo de simular o gerenciamento de uma biblioteca, permitindo o controle de livros, usuários e empréstimos.
 
 Este projeto foi desenvolvido como parte dos meus estudos em Engenharia de Software, com foco na prática de lógica de programação, organização de código e desenvolvimento de aplicações em Java.
 
