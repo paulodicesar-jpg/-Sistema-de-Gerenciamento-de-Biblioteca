@@ -16,7 +16,6 @@ Este projeto foi desenvolvido como parte dos meus estudos em Engenharia de Softw
 - Remoção de registros
 - Armazenamento de dados
 
--
 
 ## Tecnologias utilizadas
 
